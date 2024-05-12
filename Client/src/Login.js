@@ -117,9 +117,9 @@ const Login = () => {
                 theme: "colored"
             });
             console.log(data)
-            // setTimeout(() => {
-            //     navigate('/FindJobs')
-            // }, 2000);
+            setTimeout(() => {
+                navigate('/FindJobs')
+            }, 2000);
         }
     }
 

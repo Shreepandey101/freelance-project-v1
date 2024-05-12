@@ -173,10 +173,10 @@ const About = () => {
               className="about-card"
             >
               <div className="img">
-                <img src="https://ik.imagekit.io/bhanu1776/Freelansters/osama.jpg?updatedAt=1682608749618" alt="" loading="lazy"/>
+                <img src="https://ik.imagekit.io/w2f51d0bb1/WhatsApp%20Image%202024-05-12%20at%209.09.55%20PM.jpeg?updatedAt=1715528420727" alt="" loading="lazy"/>
               </div>
               <div className="info">
-                <h3>Osama Shaikh</h3>
+                <h3>Ishita Anand</h3>
                 <span>Frontend Developer</span>
               </div>
               <ul className="social">
@@ -206,54 +206,7 @@ const About = () => {
               </ul>
             </div>
 
-            <div
-              data-aos="fade-down"
-              data-aos-offset="300"
-              data-aos-easing="ease-in-out"
-              className="about-card"
-            >
-              <div className="img">
-                <img src="https://ik.imagekit.io/bhanu1776/Freelansters/bhanu.jpg?updatedAt=1682608756655" alt="" loading="lazy" />
-              </div>
-              <div className="info">
-                <h3>Bhanu Sunka</h3>
-                <span>Full Stack Developer</span>
-              </div>
-              <ul className="social">
-                <li>
-                  <a
-                    href="https://github.com/Bhanu1776"
-                    className="fab fa-facebook"
-                  >
-                    <span></span>
-                  </a>
-                </li>
-                <li>
-                  <a
-                    href="https://twitter.com/SunkaBhanu"
-                    className="fab fa-twitter"
-                  >
-                    <span></span>
-                  </a>
-                </li>
-                <li>
-                  <a
-                    href="https://www.instagram.com/bhanu_1776/"
-                    className="fab fa-instagram"
-                  >
-                    <span></span>
-                  </a>
-                </li>
-                <li>
-                  <a
-                    href="https://www.linkedin.com/in/bhanu-sunka-94a24a21a/"
-                    className="fab fa-linkedin"
-                  >
-                    <span></span>
-                  </a>
-                </li>
-              </ul>
-            </div>
+            
 
             <div
               data-aos="fade-left"
@@ -262,10 +215,10 @@ const About = () => {
               className="about-card"
             >
               <div className="img">
-                <img src="https://ik.imagekit.io/bhanu1776/Freelansters/harsh.jpg?updatedAt=1682608753482" alt="" loading="lazy"/>
+                <img src="https://ik.imagekit.io/w2f51d0bb1/IMG_4742%20(1).JPEG?updatedAt=1715528140939" alt="" loading="lazy"/>
               </div>
               <div className="info">
-                <h3>Harsh Dalvi</h3>
+                <h3>Shree Prakash Pandey</h3>
                 <span>Backend Developer</span>
               </div>
               <ul className="social">

@@ -84,11 +84,11 @@ const Footer = () => {
       {/* //? Footer */}
       <Wrapper>
         <footer id="foot">
-          <h1 id="f-title">Freelanster</h1>
+          <h1 id="f-title">Freelanster Market</h1>
 
           <p className="loc">Republic of Dombivli</p>
-          <p className="phone">+91 9136281166</p>
-          <p className="mail">Random@gmail.com</p>
+          <p className="phone">+91 6307619678</p>
+          <p className="mail">sppandeydev786@gmail.com</p>
 
           <svg
             className="s-loc"
